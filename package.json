@@ -33,5 +33,8 @@
   "strapi": {
     "uuid": "21b9798c-7416-477f-88de-e9e7ad0b5126",
     "installId": "f6c4b441cdc33c1dada936ba89d1897d7e9780f6bfaa7b5de706ed825f546ed1"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.4"
   }
 }
