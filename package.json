@@ -15,16 +15,16 @@
     "upgrade:dry": "npx @strapi/upgrade latest --dry"
   },
   "dependencies": {
-    "@strapi/plugin-cloud": "5.40.0",
-    "@strapi/plugin-users-permissions": "5.40.0",
-    "@strapi/strapi": "5.40.0",
+    "@strapi/plugin-cloud": "^5.9.0",
+    "@strapi/plugin-users-permissions": "^5.42.1",
+    "@strapi/strapi": "^5.42.1",
     "mysql2": "3.9.8",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-router-dom": "^6.0.0",
+    "strapi": "^3.6.11",
     "styled-components": "^6.0.0"
   },
-  "devDependencies": {},
   "engines": {
     "node": ">=20.0.0 <=24.x.x",
     "npm": ">=6.0.0"
